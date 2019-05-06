@@ -41,7 +41,7 @@ meetings_plot <- ggplot(data = meetings_final,
   geom_bar(stat = "identity") +
   scale_x_discrete(drop = FALSE) +
   scale_fill_discrete(drop = FALSE,
-                      limits=c("ICCAT", "ICCAT/IOTC", "WCPFC", "IOTC", "IATTC/AIDCP", "EU")) +
+                      limits=c("ICCAT", "T3", "WCPFC", "IOTC", "IATTC/AIDCP", "EU")) +
   theme(axis.text.x = element_text(angle = 90, hjust = 1)) +
   labs(title = "Number of meetings where data were possibly necessary by month, year and structure/organization.",
        x = "Year/month",

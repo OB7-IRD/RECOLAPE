@@ -195,35 +195,35 @@ IOTC;10th Working Party on Methods (WPM10);2019;10;F
 IOTC;21st Working Party on Tropical Tuna (WPTT21);2019;10;F
 IOTC;15th Working Party on Data Collection and Statistics (WPDCS15);2019;11;F
 IOTC;22nd Scientific Committee (SC22);2019;12;F
-ICCAT/IOTC;T3 meeting (technical and restitution);2015;4;T
-ICCAT/IOTC;T3 meeting (technical and restitution);2016;4;T
-ICCAT/IOTC;T3 meeting (technical and restitution);2017;5;T
-ICCAT/IOTC;T3 technical meeting;2018;3;T
-ICCAT/IOTC;T3 restitution meeting;2018;4;F
-ICCAT/IOTC;T3 technical meeting;2019;3;T
-ICCAT/IOTC;T3 restitution meeting;2019;6;F
-IOTC;Annual data call for France country;2009;6;T
-IOTC;Annual data call for France country;2010;6;T
-IOTC;Annual data call for France country;2011;6;T
-IOTC;Annual data call for France country;2012;6;T
-IOTC;Annual data call for France country;2013;6;T
-IOTC;Annual data call for France country;2014;6;T
-IOTC;Annual data call for France country;2015;6;T
-IOTC;Annual data call for France country;2016;6;T
-IOTC;Annual data call for France country;2017;6;T
-IOTC;Annual data call for France country;2018;6;T
-IOTC;Annual data call for France country;2019;6;T
-ICCAT;Annual data call for France country;2009;7;T
-ICCAT;Annual data call for France country;2010;7;T
-ICCAT;Annual data call for France country;2011;6;T
-ICCAT;Annual data call for France country;2012;7;T
-ICCAT;Annual data call for France country;2013;7;T
-ICCAT;Annual data call for France country;2014;7;T
-ICCAT;Annual data call for France country;2015;7;T
-ICCAT;Annual data call for France country;2016;7;T
-ICCAT;Annual data call for France country;2017;7;T
-ICCAT;Annual data call for France country;2018;7;T
-ICCAT;Annual data call for France country;2019;7;T
+T3;T3 meeting (technical and restitution);2015;4;T
+T3;T3 meeting (technical and restitution);2016;4;T
+T3;T3 meeting (technical and restitution);2017;5;T
+T3;T3 technical meeting;2018;3;T
+T3;T3 restitution meeting;2018;4;F
+T3;T3 technical meeting;2019;3;T
+T3;T3 restitution meeting;2019;6;F
+IOTC;Annual data call;2009;6;T
+IOTC;Annual data call;2010;6;T
+IOTC;Annual data call;2011;6;T
+IOTC;Annual data call;2012;6;T
+IOTC;Annual data call;2013;6;T
+IOTC;Annual data call;2014;6;T
+IOTC;Annual data call;2015;6;T
+IOTC;Annual data call;2016;6;T
+IOTC;Annual data call;2017;6;T
+IOTC;Annual data call;2018;6;T
+IOTC;Annual data call;2019;6;T
+ICCAT;Annual data call;2009;7;T
+ICCAT;Annual data call;2010;7;T
+ICCAT;Annual data call;2011;6;T
+ICCAT;Annual data call;2012;7;T
+ICCAT;Annual data call;2013;7;T
+ICCAT;Annual data call;2014;7;T
+ICCAT;Annual data call;2015;7;T
+ICCAT;Annual data call;2016;7;T
+ICCAT;Annual data call;2017;7;T
+ICCAT;Annual data call;2018;7;T
+ICCAT;Annual data call;2019;7;T
 CCSBT;CCSBT Maturity Workshop 2019;2019;5;NA
 CCSBT;13th Meeting of the Ecologically Related Species Working Group;2019;5;NA
 CCSBT;10th Operating Model and Management Procedure Technical Meeting;2019;6;NA
